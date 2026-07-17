@@ -1,0 +1,5 @@
+{
+  "confidence_threshold": 0.5,
+  "classifier": "Linear SVM",
+  "test_accuracy": 1.0
+}

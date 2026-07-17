@@ -1,0 +1,16 @@
+{
+  "samples": 150,
+  "embedding_dimension": 512,
+  "identities": [
+    "ariel_sharon",
+    "colin_powell",
+    "donald_rumsfeld",
+    "george_w_bush",
+    "gerhard_schroeder",
+    "hugo_chavez",
+    "jean_chretien",
+    "john_ashcroft",
+    "junichiro_koizumi",
+    "tony_blair"
+  ]
+}

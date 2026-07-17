@@ -1,0 +1,9 @@
+{
+  "raw_images": 13233,
+  "eligible_identities": 62,
+  "selected_identities": 10,
+  "unknown_identities": 3,
+  "gallery_images": 150,
+  "known_test_images": 50,
+  "unknown_test_images": 20
+}

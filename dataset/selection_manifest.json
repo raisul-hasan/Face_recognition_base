@@ -1,0 +1,91 @@
+{
+  "raw_dataset_dir": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\dataset\\raw\\lfw_funneled",
+  "selected_identities": [
+    {
+      "folder_name": "george_w_bush",
+      "original_identity": "George_W_Bush",
+      "gallery_images": 15,
+      "known_test_images": 5
+    },
+    {
+      "folder_name": "colin_powell",
+      "original_identity": "Colin_Powell",
+      "gallery_images": 15,
+      "known_test_images": 5
+    },
+    {
+      "folder_name": "tony_blair",
+      "original_identity": "Tony_Blair",
+      "gallery_images": 15,
+      "known_test_images": 5
+    },
+    {
+      "folder_name": "donald_rumsfeld",
+      "original_identity": "Donald_Rumsfeld",
+      "gallery_images": 15,
+      "known_test_images": 5
+    },
+    {
+      "folder_name": "gerhard_schroeder",
+      "original_identity": "Gerhard_Schroeder",
+      "gallery_images": 15,
+      "known_test_images": 5
+    },
+    {
+      "folder_name": "ariel_sharon",
+      "original_identity": "Ariel_Sharon",
+      "gallery_images": 15,
+      "known_test_images": 5
+    },
+    {
+      "folder_name": "hugo_chavez",
+      "original_identity": "Hugo_Chavez",
+      "gallery_images": 15,
+      "known_test_images": 5
+    },
+    {
+      "folder_name": "junichiro_koizumi",
+      "original_identity": "Junichiro_Koizumi",
+      "gallery_images": 15,
+      "known_test_images": 5
+    },
+    {
+      "folder_name": "jean_chretien",
+      "original_identity": "Jean_Chretien",
+      "gallery_images": 15,
+      "known_test_images": 5
+    },
+    {
+      "folder_name": "john_ashcroft",
+      "original_identity": "John_Ashcroft",
+      "gallery_images": 15,
+      "known_test_images": 5
+    }
+  ],
+  "unknown_identities": [
+    {
+      "folder_name": "jacques_chirac",
+      "original_identity": "Jacques_Chirac",
+      "unknown_images": 7
+    },
+    {
+      "folder_name": "serena_williams",
+      "original_identity": "Serena_Williams",
+      "unknown_images": 7
+    },
+    {
+      "folder_name": "vladimir_putin",
+      "original_identity": "Vladimir_Putin",
+      "unknown_images": 6
+    }
+  ],
+  "stats": {
+    "raw_images": 13233,
+    "eligible_identities": 62,
+    "selected_identities": 10,
+    "unknown_identities": 3,
+    "gallery_images": 150,
+    "known_test_images": 50,
+    "unknown_test_images": 20
+  }
+}
