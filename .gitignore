@@ -21,5 +21,3 @@ embeddings/*.json
 outputs/
 *.log
 logs/
-reports/
-gallery_report.json

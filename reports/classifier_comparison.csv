@@ -1,0 +1,5 @@
+accuracy,classifier,f1_score,precision,recall,roc_auc_ovr_weighted
+1.0,Linear SVM,1.0,1.0,1.0,1.0
+1.0,RBF SVM,1.0,1.0,1.0,1.0
+1.0,Logistic Regression,1.0,1.0,1.0,1.0
+1.0,KNN,1.0,1.0,1.0,1.0

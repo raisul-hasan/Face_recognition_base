@@ -1,0 +1,34 @@
+[
+  {
+    "classifier": "Linear SVM",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc_ovr_weighted": 1.0
+  },
+  {
+    "classifier": "RBF SVM",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc_ovr_weighted": 1.0
+  },
+  {
+    "classifier": "Logistic Regression",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc_ovr_weighted": 1.0
+  },
+  {
+    "classifier": "KNN",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc_ovr_weighted": 1.0
+  }
+]

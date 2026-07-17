@@ -1,0 +1,10 @@
+{
+  "selected_threshold": 0.5,
+  "threshold": 0.5,
+  "recognition_accuracy": 0.98,
+  "false_acceptance_rate": 0.0,
+  "false_rejection_rate": 0.02,
+  "decision_f1": 0.98989898989899,
+  "known_samples": 50,
+  "unknown_samples": 20
+}

@@ -1,0 +1,17 @@
+{
+  "number_of_identities": 10,
+  "images_per_identity": {
+    "ariel_sharon": 15,
+    "colin_powell": 15,
+    "donald_rumsfeld": 15,
+    "george_w_bush": 15,
+    "gerhard_schroeder": 15,
+    "hugo_chavez": 15,
+    "jean_chretien": 15,
+    "john_ashcroft": 15,
+    "junichiro_koizumi": 15,
+    "tony_blair": 15
+  },
+  "embedding_dimension": 512,
+  "total_gallery_images": 150
+}

@@ -1,0 +1,492 @@
+[
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\ariel_sharon\\Ariel_Sharon_0016.jpg",
+    "known": true,
+    "actual": "ariel_sharon",
+    "predicted": "ariel_sharon",
+    "confidence": 0.6739113740088979
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\ariel_sharon\\Ariel_Sharon_0017.jpg",
+    "known": true,
+    "actual": "ariel_sharon",
+    "predicted": "ariel_sharon",
+    "confidence": 0.5190096275600284
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\ariel_sharon\\Ariel_Sharon_0018.jpg",
+    "known": true,
+    "actual": "ariel_sharon",
+    "predicted": "ariel_sharon",
+    "confidence": 0.47921556390737335
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\ariel_sharon\\Ariel_Sharon_0019.jpg",
+    "known": true,
+    "actual": "ariel_sharon",
+    "predicted": "ariel_sharon",
+    "confidence": 0.606305399019828
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\ariel_sharon\\Ariel_Sharon_0020.jpg",
+    "known": true,
+    "actual": "ariel_sharon",
+    "predicted": "ariel_sharon",
+    "confidence": 0.633434319755138
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\colin_powell\\Colin_Powell_0016.jpg",
+    "known": true,
+    "actual": "colin_powell",
+    "predicted": "colin_powell",
+    "confidence": 0.6160317840341113
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\colin_powell\\Colin_Powell_0017.jpg",
+    "known": true,
+    "actual": "colin_powell",
+    "predicted": "colin_powell",
+    "confidence": 0.6009665931185845
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\colin_powell\\Colin_Powell_0018.jpg",
+    "known": true,
+    "actual": "colin_powell",
+    "predicted": "colin_powell",
+    "confidence": 0.5965212044156271
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\colin_powell\\Colin_Powell_0019.jpg",
+    "known": true,
+    "actual": "colin_powell",
+    "predicted": "colin_powell",
+    "confidence": 0.6233663425674694
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\colin_powell\\Colin_Powell_0020.jpg",
+    "known": true,
+    "actual": "colin_powell",
+    "predicted": "colin_powell",
+    "confidence": 0.6021435151981447
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\donald_rumsfeld\\Donald_Rumsfeld_0016.jpg",
+    "known": true,
+    "actual": "donald_rumsfeld",
+    "predicted": "donald_rumsfeld",
+    "confidence": 0.6427916616441733
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\donald_rumsfeld\\Donald_Rumsfeld_0017.jpg",
+    "known": true,
+    "actual": "donald_rumsfeld",
+    "predicted": "donald_rumsfeld",
+    "confidence": 0.57022206887537
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\donald_rumsfeld\\Donald_Rumsfeld_0018.jpg",
+    "known": true,
+    "actual": "donald_rumsfeld",
+    "predicted": "donald_rumsfeld",
+    "confidence": 0.5512202326714511
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\donald_rumsfeld\\Donald_Rumsfeld_0019.jpg",
+    "known": true,
+    "actual": "donald_rumsfeld",
+    "predicted": "donald_rumsfeld",
+    "confidence": 0.5732800582795039
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\donald_rumsfeld\\Donald_Rumsfeld_0020.jpg",
+    "known": true,
+    "actual": "donald_rumsfeld",
+    "predicted": "donald_rumsfeld",
+    "confidence": 0.6058898478217879
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\george_w_bush\\George_W_Bush_0016.jpg",
+    "known": true,
+    "actual": "george_w_bush",
+    "predicted": "george_w_bush",
+    "confidence": 0.650410411289619
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\george_w_bush\\George_W_Bush_0017.jpg",
+    "known": true,
+    "actual": "george_w_bush",
+    "predicted": "george_w_bush",
+    "confidence": 0.5278634060826108
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\george_w_bush\\George_W_Bush_0018.jpg",
+    "known": true,
+    "actual": "george_w_bush",
+    "predicted": "george_w_bush",
+    "confidence": 0.5516979689253113
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\george_w_bush\\George_W_Bush_0019.jpg",
+    "known": true,
+    "actual": "george_w_bush",
+    "predicted": "george_w_bush",
+    "confidence": 0.5994417972299485
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\george_w_bush\\George_W_Bush_0020.jpg",
+    "known": true,
+    "actual": "george_w_bush",
+    "predicted": "george_w_bush",
+    "confidence": 0.577220855357158
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\gerhard_schroeder\\Gerhard_Schroeder_0016.jpg",
+    "known": true,
+    "actual": "gerhard_schroeder",
+    "predicted": "gerhard_schroeder",
+    "confidence": 0.626910331069409
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\gerhard_schroeder\\Gerhard_Schroeder_0017.jpg",
+    "known": true,
+    "actual": "gerhard_schroeder",
+    "predicted": "gerhard_schroeder",
+    "confidence": 0.6299251924189958
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\gerhard_schroeder\\Gerhard_Schroeder_0018.jpg",
+    "known": true,
+    "actual": "gerhard_schroeder",
+    "predicted": "gerhard_schroeder",
+    "confidence": 0.6438026289693322
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\gerhard_schroeder\\Gerhard_Schroeder_0019.jpg",
+    "known": true,
+    "actual": "gerhard_schroeder",
+    "predicted": "gerhard_schroeder",
+    "confidence": 0.5883864478801356
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\gerhard_schroeder\\Gerhard_Schroeder_0020.jpg",
+    "known": true,
+    "actual": "gerhard_schroeder",
+    "predicted": "gerhard_schroeder",
+    "confidence": 0.6093812081133927
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\hugo_chavez\\Hugo_Chavez_0016.jpg",
+    "known": true,
+    "actual": "hugo_chavez",
+    "predicted": "hugo_chavez",
+    "confidence": 0.6324016355025909
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\hugo_chavez\\Hugo_Chavez_0017.jpg",
+    "known": true,
+    "actual": "hugo_chavez",
+    "predicted": "hugo_chavez",
+    "confidence": 0.619883723010158
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\hugo_chavez\\Hugo_Chavez_0018.jpg",
+    "known": true,
+    "actual": "hugo_chavez",
+    "predicted": "hugo_chavez",
+    "confidence": 0.6128632473620963
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\hugo_chavez\\Hugo_Chavez_0019.jpg",
+    "known": true,
+    "actual": "hugo_chavez",
+    "predicted": "hugo_chavez",
+    "confidence": 0.6287871906667053
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\hugo_chavez\\Hugo_Chavez_0020.jpg",
+    "known": true,
+    "actual": "hugo_chavez",
+    "predicted": "hugo_chavez",
+    "confidence": 0.6595724683633032
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\jean_chretien\\Jean_Chretien_0016.jpg",
+    "known": true,
+    "actual": "jean_chretien",
+    "predicted": "jean_chretien",
+    "confidence": 0.6307401264156058
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\jean_chretien\\Jean_Chretien_0017.jpg",
+    "known": true,
+    "actual": "jean_chretien",
+    "predicted": "jean_chretien",
+    "confidence": 0.6065602578554743
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\jean_chretien\\Jean_Chretien_0018.jpg",
+    "known": true,
+    "actual": "jean_chretien",
+    "predicted": "jean_chretien",
+    "confidence": 0.6093808148631188
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\jean_chretien\\Jean_Chretien_0019.jpg",
+    "known": true,
+    "actual": "jean_chretien",
+    "predicted": "jean_chretien",
+    "confidence": 0.6150396628935444
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\jean_chretien\\Jean_Chretien_0020.jpg",
+    "known": true,
+    "actual": "jean_chretien",
+    "predicted": "jean_chretien",
+    "confidence": 0.6310512818325628
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\john_ashcroft\\John_Ashcroft_0016.jpg",
+    "known": true,
+    "actual": "john_ashcroft",
+    "predicted": "john_ashcroft",
+    "confidence": 0.6018158945556884
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\john_ashcroft\\John_Ashcroft_0017.jpg",
+    "known": true,
+    "actual": "john_ashcroft",
+    "predicted": "john_ashcroft",
+    "confidence": 0.6002023217915231
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\john_ashcroft\\John_Ashcroft_0018.jpg",
+    "known": true,
+    "actual": "john_ashcroft",
+    "predicted": "john_ashcroft",
+    "confidence": 0.6075873574540769
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\john_ashcroft\\John_Ashcroft_0019.jpg",
+    "known": true,
+    "actual": "john_ashcroft",
+    "predicted": "john_ashcroft",
+    "confidence": 0.641649278743192
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\john_ashcroft\\John_Ashcroft_0020.jpg",
+    "known": true,
+    "actual": "john_ashcroft",
+    "predicted": "john_ashcroft",
+    "confidence": 0.6160585803822042
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\junichiro_koizumi\\Junichiro_Koizumi_0016.jpg",
+    "known": true,
+    "actual": "junichiro_koizumi",
+    "predicted": "junichiro_koizumi",
+    "confidence": 0.6413049948468798
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\junichiro_koizumi\\Junichiro_Koizumi_0017.jpg",
+    "known": true,
+    "actual": "junichiro_koizumi",
+    "predicted": "junichiro_koizumi",
+    "confidence": 0.599553555535273
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\junichiro_koizumi\\Junichiro_Koizumi_0018.jpg",
+    "known": true,
+    "actual": "junichiro_koizumi",
+    "predicted": "junichiro_koizumi",
+    "confidence": 0.5598022815507337
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\junichiro_koizumi\\Junichiro_Koizumi_0019.jpg",
+    "known": true,
+    "actual": "junichiro_koizumi",
+    "predicted": "junichiro_koizumi",
+    "confidence": 0.6060602642725506
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\junichiro_koizumi\\Junichiro_Koizumi_0020.jpg",
+    "known": true,
+    "actual": "junichiro_koizumi",
+    "predicted": "junichiro_koizumi",
+    "confidence": 0.5243081063626275
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\tony_blair\\Tony_Blair_0016.jpg",
+    "known": true,
+    "actual": "tony_blair",
+    "predicted": "tony_blair",
+    "confidence": 0.5480869352525373
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\tony_blair\\Tony_Blair_0017.jpg",
+    "known": true,
+    "actual": "tony_blair",
+    "predicted": "tony_blair",
+    "confidence": 0.5727082963736998
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\tony_blair\\Tony_Blair_0018.jpg",
+    "known": true,
+    "actual": "tony_blair",
+    "predicted": "tony_blair",
+    "confidence": 0.542023023611315
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\tony_blair\\Tony_Blair_0019.jpg",
+    "known": true,
+    "actual": "tony_blair",
+    "predicted": "tony_blair",
+    "confidence": 0.5979909739066801
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\known\\tony_blair\\Tony_Blair_0020.jpg",
+    "known": true,
+    "actual": "tony_blair",
+    "predicted": "tony_blair",
+    "confidence": 0.6336827885685427
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\jacques_chirac\\Jacques_Chirac_0001.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "jean_chretien",
+    "confidence": 0.14076678812301352
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\jacques_chirac\\Jacques_Chirac_0002.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "jean_chretien",
+    "confidence": 0.14168545635659438
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\jacques_chirac\\Jacques_Chirac_0003.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "john_ashcroft",
+    "confidence": 0.135391509652828
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\jacques_chirac\\Jacques_Chirac_0004.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "jean_chretien",
+    "confidence": 0.141304185584622
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\jacques_chirac\\Jacques_Chirac_0005.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "john_ashcroft",
+    "confidence": 0.14240619266717688
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\jacques_chirac\\Jacques_Chirac_0006.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "john_ashcroft",
+    "confidence": 0.13567705714257952
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\jacques_chirac\\Jacques_Chirac_0007.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "john_ashcroft",
+    "confidence": 0.14125103578773868
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\serena_williams\\Serena_Williams_0001.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "tony_blair",
+    "confidence": 0.15438359540028093
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\serena_williams\\Serena_Williams_0002.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "tony_blair",
+    "confidence": 0.1509978115584406
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\serena_williams\\Serena_Williams_0003.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "tony_blair",
+    "confidence": 0.15065407896869326
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\serena_williams\\Serena_Williams_0004.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "tony_blair",
+    "confidence": 0.15997010899052144
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\serena_williams\\Serena_Williams_0005.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "tony_blair",
+    "confidence": 0.15644496446181608
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\serena_williams\\Serena_Williams_0006.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "tony_blair",
+    "confidence": 0.1398085830725982
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\serena_williams\\Serena_Williams_0007.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "john_ashcroft",
+    "confidence": 0.12891197198654877
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\vladimir_putin\\Vladimir_Putin_0001.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "ariel_sharon",
+    "confidence": 0.1431853086664283
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\vladimir_putin\\Vladimir_Putin_0002.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "ariel_sharon",
+    "confidence": 0.17252564480000251
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\vladimir_putin\\Vladimir_Putin_0003.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "ariel_sharon",
+    "confidence": 0.14194306873120083
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\vladimir_putin\\Vladimir_Putin_0004.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "ariel_sharon",
+    "confidence": 0.16097924851888387
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\vladimir_putin\\Vladimir_Putin_0005.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "gerhard_schroeder",
+    "confidence": 0.13245641105446276
+  },
+  {
+    "path": "C:\\Users\\hp\\Desktop\\FaceRecognition_Baseline\\test_images\\unknown\\vladimir_putin\\Vladimir_Putin_0006.jpg",
+    "known": false,
+    "actual": "UNKNOWN",
+    "predicted": "gerhard_schroeder",
+    "confidence": 0.1504087986008222
+  }
+]

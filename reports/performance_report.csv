@@ -1,0 +1,6 @@
+metric,value
+average_detection_time,0.904578
+average_recognition_time,0.044341
+average_processing_time,0.948928
+fps,1.053821
+average_similarity,0.140767
