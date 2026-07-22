@@ -21,3 +21,10 @@ embeddings/*.json
 outputs/
 *.log
 logs/
+notebooks/dataset/
+notebooks/gallery/
+notebooks/test_images/
+notebooks/embeddings/
+training/
+models/
+reports/
